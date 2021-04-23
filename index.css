@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    background-color: maroon;
+    padding: 5px;
+    text-shadow: 2px 2px 2px yellow;
+    border: 1px solid gold;
+    box-sizing: border-box;
+}
+h2{
+    color: purple;
+    font: 400;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.about {
+    background-color: maroon;
+    color: whitesmoke;
+    padding: 5px;
+}
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbNp_g1LXm37aQAAyoDD9BDmgkzOaJEQo9fg&usqp=CAU');
+    background-repeat: initial;
+    margin: 50px;
+    
+}
+.members {
+    background-color: maroon;
+    display: flex
+}
+.songs {
+    background-color: maroon;
+    display: flexbox;
+    color: white;
+}
+#author {
+    border: 2px solid maroon;
+    background-color: mediumorchid;
+    padding: 5px;
+    text-align: center;
+    color: mediumseagreen;
+    
+}
