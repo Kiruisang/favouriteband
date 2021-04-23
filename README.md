@@ -1,6 +1,6 @@
 # favouriteband
-We all at some point listen to music and in that we find the people that speak to us , the melodies that 
-resonate with us and well this, this is that band for me.
+We all at some point we all  listen to music and in that we find the people that speak to us , the melodies that 
+resonate within us and well this and the voices that play our heartstrigs...this is that band for me.This is a short intro to my favourite band
 This is a website describing my favorite band 
 (Maroon 5) and a list of their works. 
 Additionally, it includes a short introduction to the band and some of my favourite songs of theirs}, 
